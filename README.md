@@ -1,6 +1,5 @@
 <div align="center">
     <a href="https://bit.ly/TickToDo" target="_blank">
-        <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/c64e70f4-4b8d-49d4-8aef-9be92d731f14" alt="banner" style="max-width:100%;" />
     </a>
 </div>
 
@@ -46,13 +45,4 @@
     Screenshots
 </h2>
 <div align="center">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/ae11757d-ca21-4f6a-a789-4e5225ba24aa" alt="Screenshot 1" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/3907b388-c824-499c-9b3a-9ba71e00048a" alt="Screenshot 2" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/75607f51-23de-4e15-8ec8-adbed990131c" alt="Screenshot 3" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/725628e4-1d04-4025-ae21-c3cd6d4d9d09" alt="Screenshot 4" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/feb70687-0cdb-4fab-977a-fd15c15b6d55" alt="Screenshot 5" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/0217fb47-d8d9-4e3b-b801-f1189058167e" alt="Screenshot 6" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/b9c08cec-33e2-4df8-b7a2-5f21241ee3b6" alt="Screenshot 7" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/758b7263-5729-47f2-89c0-c3f6b22f3cc4" alt="Screenshot 8" width="300">
-    <img src="https://github.com/erkam-dev/tick_to_do/assets/62347408/cc6f9851-a792-43b8-a760-a8c5fe11e501" alt="Screenshot 9" width="300">
 </div>
