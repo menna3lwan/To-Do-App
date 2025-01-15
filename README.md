@@ -37,8 +37,6 @@
 </p>
 
 
-<h2 align="center">
-    Screenshots
-</h2>
+
 <div align="center">
 </div>
