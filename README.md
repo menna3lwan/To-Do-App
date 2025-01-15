@@ -35,11 +35,7 @@
 <p>
     Download Tick To Do now and take control of your tasks and productivity.
 </p>
-<h3 align="center">
-    <a href="https://bit.ly/TickToDo" target="_blank">
-        Download Tick To Do
-    </a>
-</h3>
+
 
 <h2 align="center">
     Screenshots
